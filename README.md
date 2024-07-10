@@ -1,3 +1,3 @@
-# Trading_Projects
+# Trading Projects
 
-Posting projects (backtesting trading strategies)
+Backtesting algotrading strategies
